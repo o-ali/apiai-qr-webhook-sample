@@ -10,8 +10,8 @@
   },
   "scripts": {
     "lint": "semistandard --fix \"**/*.js\"",
-    "start": "functions deploy qrReader --trigger-http",
-    "deploy": "gcloud beta functions deploy qrReader --trigger-http --stage-bucket <storage_bucket_name>"
+    "start": "functions deploy qReader --trigger-http",
+    "deploy": "gcloud beta functions deploy qReader --trigger-http --stage-bucket <storage_bucket_name>"
   },
   "dependencies": {
     "actions-on-google": "^1.0.0"
