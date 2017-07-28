@@ -16,10 +16,13 @@
 process.env.DEBUG = 'actions-on-google:*';
 const Assistant = require('actions-on-google').ApiAiAssistant;
 
+//const NAME_ACTION = 'make_name';
 const NAME_ACTION = 'sura.play';
 
+//const COLOR_ARGUMENT = 'color';
 const SURA_NAME = 'SuraName';
 
+//const NUMBER_ARGUMENT = 'number';
 const SURA_NUMBER = 'SuraNumber';
 
 // [START Reader]
@@ -31,11 +34,6 @@ exports.qReader = (req, res) => {
   // Make a silly name
   function readSura (assistant) {
     let SuraNumber = assistant.getArgument(SURA_NUMBER);
-    //let SuraName = assistant.getArgument(SURA_NAME);
-    //assistant.tell('Alright, your sura name is ' + ' ' + SuraNumber +
-     //'! I hope you like it. See you next time. Alright, your sura name is $SuraName $SuraNumber . I hope you like it ! See you next time !');
-	//let sourceURL = 'https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/00' + SuraNumber + '.mp3';
-//assistant.tell(sourceURL);
 
 	let theAudio = '<audio src=\"https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/0' + SuraNumber + '.mp3\">your wave file</audio>';
 
