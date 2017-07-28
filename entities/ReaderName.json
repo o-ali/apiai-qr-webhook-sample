@@ -1,0 +1,21 @@
+{
+  "id": "ff88657e-97e0-4c7b-98ba-a72f60783142",
+  "name": "ReaderName",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "AlAfasy",
+      "synonyms": [
+        "AlAfasy"
+      ]
+    },
+    {
+      "value": "al afasy",
+      "synonyms": [
+        "al afasy"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5cc1edcd-6bca-4585-b3bd-d3a2b98c1185",
+  "name": "Status",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "pause",
+      "synonyms": [
+        "pause"
+      ]
+    },
+    {
+      "value": "play",
+      "synonyms": [
+        "play",
+        "continue",
+        "resume"
+      ]
+    },
+    {
+      "value": "stop",
+      "synonyms": [
+        "stop",
+        "quit",
+        "exit"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

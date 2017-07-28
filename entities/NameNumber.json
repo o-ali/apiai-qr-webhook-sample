@@ -1,0 +1,15 @@
+{
+  "id": "88306bb3-0ba5-4516-868e-5c229921712d",
+  "name": "NameNumber",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "@SuraNumber:SuraNumber @ReaderName:ReaderName",
+      "synonyms": [
+        "@"
+      ]
+    }
+  ],
+  "isEnum": true,
+  "automatedExpansion": false
+}

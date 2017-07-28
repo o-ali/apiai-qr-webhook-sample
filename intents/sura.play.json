@@ -1,0 +1,456 @@
+{
+  "userSays": [
+    {
+      "id": "7e564b1d-4721-4f4d-8a9a-9f09d83bf9e6",
+      "data": [
+        {
+          "text": "play chapter "
+        },
+        {
+          "text": "2",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber"
+        },
+        {
+          "text": " ayah "
+        },
+        {
+          "text": "34",
+          "alias": "AyahNumber",
+          "meta": "@sys.number-integer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f99249e5-eef3-4135-ae70-a8e7a167f3b7",
+      "data": [
+        {
+          "text": "read chapter "
+        },
+        {
+          "text": "1",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "b58d6a2f-63d8-4ff7-bbac-be2b55d19ffb",
+      "data": [
+        {
+          "text": "read chapter "
+        },
+        {
+          "text": "1",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber"
+        },
+        {
+          "text": " ayah "
+        },
+        {
+          "text": "3",
+          "alias": "AyahNumber",
+          "meta": "@sys.number-integer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c0ca689-25fb-4336-8789-18b95af2c13f",
+      "data": [
+        {
+          "text": "read chapter "
+        },
+        {
+          "text": "3",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        },
+        {
+          "text": " ayah "
+        },
+        {
+          "text": "5",
+          "alias": "AyahNumber",
+          "meta": "@sys.number-integer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2cc2f1a2-be4c-47f3-a87a-7fa37bef4dac",
+      "data": [
+        {
+          "text": "play chapter "
+        },
+        {
+          "text": "54",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d13deffc-d737-4940-b7f7-ba476171fb3e",
+      "data": [
+        {
+          "text": "play sora "
+        },
+        {
+          "text": "1",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "230d2474-3f55-407a-a745-650199c2a186",
+      "data": [
+        {
+          "text": "play sora "
+        },
+        {
+          "text": "14",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6711ee6-b546-48e5-b3aa-0644099aeda3",
+      "data": [
+        {
+          "text": "recite chapter "
+        },
+        {
+          "text": "5",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        },
+        {
+          "text": " ayah "
+        },
+        {
+          "text": "29",
+          "alias": "AyahNumber",
+          "meta": "@sys.number-integer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ca23cf5-f9b1-4722-afa7-01ae59cdbcdf",
+      "data": [
+        {
+          "text": "read sura "
+        },
+        {
+          "text": "15",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        },
+        {
+          "text": " ayah "
+        },
+        {
+          "text": "34",
+          "alias": "AyahNumber",
+          "meta": "@sys.number-integer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "609cbb3c-84c7-4758-b80d-c98538dea0bf",
+      "data": [
+        {
+          "text": "play",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " chapter "
+        },
+        {
+          "text": "1",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        },
+        {
+          "text": " ayah "
+        },
+        {
+          "text": "13",
+          "alias": "AyahNumber",
+          "meta": "@sys.number-integer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27cf4ab6-76b2-4d2e-b349-dea8ea9c000a",
+      "data": [
+        {
+          "text": "play chapter "
+        },
+        {
+          "text": "14",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d965baed-00a2-4a67-b08f-af67e7fae418",
+      "data": [
+        {
+          "text": "recite chapter "
+        },
+        {
+          "text": "100",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c77e698c-3af9-459b-afb8-3cdd4b66811b",
+      "data": [
+        {
+          "text": "read "
+        },
+        {
+          "text": "alfatiha",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "alafasy",
+          "alias": "ReaderName",
+          "meta": "@ReaderName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f85c35f-7d24-41a6-ae9e-d50ac5453d93",
+      "data": [
+        {
+          "text": "read "
+        },
+        {
+          "text": "al fatiha",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b52db4ec-b38f-4498-ba2a-cedb66c7a2fb",
+      "data": [
+        {
+          "text": "recite sura "
+        },
+        {
+          "text": "al fatiha",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "alafasy",
+          "alias": "ReaderName",
+          "meta": "@ReaderName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f54fcab4-96b6-4590-bf2e-3d8c0acde616",
+      "data": [
+        {
+          "text": "recite sura "
+        },
+        {
+          "text": "1",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "al afasy",
+          "alias": "ReaderName",
+          "meta": "@ReaderName",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "59386c92-738b-48c0-b0cd-ab79c011fb18",
+      "data": [
+        {
+          "text": "recite sura "
+        },
+        {
+          "text": "al fatiha",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "451f53f1-4ec6-4202-8e98-28fb4597c9d9",
+      "data": [
+        {
+          "text": "recite sura "
+        },
+        {
+          "text": "1",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3834ffa4-e4eb-4d5a-b027-e53d59e5f54c",
+      "data": [
+        {
+          "text": "play sura "
+        },
+        {
+          "text": "1",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "8b0235fb-bec1-42af-9c5f-180b636f8093",
+      "data": [
+        {
+          "text": "play sura "
+        },
+        {
+          "text": "2",
+          "alias": "SuraNumber",
+          "meta": "@SuraNumber",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "8f2aeaed-3c82-49f1-880b-4b6a181aa1b8",
+  "name": "sura.play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sura.play",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@SuraNumber",
+          "name": "SuraNumber",
+          "value": "$SuraNumber",
+          "prompts": [
+            "Please say the sura number"
+          ],
+          "isList": false
+        },
+        {
+          "dataType": "@ReaderName",
+          "name": "ReaderName",
+          "value": "$ReaderName",
+          "isList": false
+        },
+        {
+          "dataType": "@sys.number-integer",
+          "name": "AyahNumber",
+          "value": "$AyahNumber",
+          "prompts": [],
+          "defaultValue": "1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Ok playing sura $SuraNumber from ayah $AyahNumber",
+            "Ok playing sura $SuraNumber"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
